@@ -1,3 +1,4 @@
+
 class Main {
   
   public static void main(String[] args) {
@@ -49,3 +50,35 @@ class Main {
   }
 
 }
+
+
+
+if ELSE__________________________________________________________________________________________________________________
+
+class Main {
+ 
+   public static void main(String[] args) {
+  
+    int x=99;
+    
+    if(x>7){
+   
+     System.out.println("hi");
+  
+      }if(x<7){
+  
+        System.out.println("hello"); 
+
+       
+  }else{
+   
+        System.out.println("wellcome"); 
+ 
+          
+
+           }
+   
+     }
+ 
+   }
+
